@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aalohfaequ.xplore.online/sitemap.xml
